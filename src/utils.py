@@ -3,3 +3,6 @@ def saludar():
 
 def agradecer():
     print("Gracias por asistir")
+
+def despedirse():
+    print("Adios")

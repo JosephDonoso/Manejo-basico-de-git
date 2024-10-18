@@ -1,5 +1,8 @@
 def saludar():
-    print("Hola mundo!")
+    print("Hola!")
+
+def agradecer():
+    print("Gracias por asistir")
 
 def despedirse():
     print("Adios")
